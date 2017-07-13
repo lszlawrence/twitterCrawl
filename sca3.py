@@ -5,8 +5,8 @@ import json
 import re
 from time import gmtime, strftime
 import unirest
-CONSUMER_KEY = "2R4kJEiWZw4W3hEVjRX0hXVcG"
-CONSUMER_SECRET = "cq4z0KWPmLjUTOTmEl2M6zGIgCc90QctmFfTmE15YDlkjXX0Ac"
+CONSUMER_KEY = ""
+CONSUMER_SECRET = ""
 global_count = 0
 # TODO Sentiment analysis
 
